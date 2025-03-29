@@ -1,4 +1,4 @@
-# note: the code and how it sorted in files can by clicking on the branches 
+# note: the code and how it sorted in files can be seen by clicking on the branches 
 class Guest:
     """Guest class to store information about hotel guests."""
 
